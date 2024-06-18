@@ -16,13 +16,13 @@ A payment table simulator with two amortization systems: French and German
 Clone the project
 
 ```bash
-  git clone https://github.com/ChristianCLop/DealDash-Ecommerce-Frontend.git
+  git clone https://github.com/ChristianCLop/backend-simulador.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DealDash-Ecommerce-Frontend
+  cd backend-simulador
 ```
 
 Install dependencies
@@ -34,7 +34,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run dev
+  npm run start:dev
 ```
 
 
