@@ -59,7 +59,7 @@ Start the server
   POST /admin
 ```
 
-| Parameter | Type     | Description                |
+| Body | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `ced_adm` | `number` | Admin **ID** |
 | `nom_adm` | `string` | Admin **Name** |
@@ -73,7 +73,7 @@ Start the server
   POST /admin/login
 ```
 
-| Parameter | Type     | Description                       |
+| Body | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `cor_adm` | `string` | Admin **Email** |
 | `con_adm` | `string` | Admin **Password** |
@@ -83,7 +83,7 @@ Start the server
 ```http
   POST /banco
 ```
-| Parameter | Type     | Description                |
+| Body | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `nom_ban` | `string` |  **Name** |
 | `log_ban` | `string` |  **Logo** |
@@ -95,7 +95,7 @@ Start the server
   POST /tipo-credito
 ```
 
-| Parameter | Type     | Description                |
+| Body | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `nom_cre` | `string` |  **Name** |
 | `int_cre` | `number` |  **Interest Rate** |
@@ -107,7 +107,7 @@ Start the server
   POST /cobro
 ```
 
-| Parameter | Type     | Description                |
+| Body | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `nom_cob` | `string` |  **Name** |
 | `int_cob` | `number` |  **Interest Rate** |
