@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="public/img/logoApp.png" width="200" alt="Nest Logo" /></a>
+  <a target="blank"><img src="https://github.com/ChristianCLop/frontend-simulador/blob/main/public/img/logoApp.png" width="200"/></a>
 </p>
 
 # CrediPlan
@@ -120,8 +120,11 @@ Start the server
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/Mi_Portafolio-000?style=flat&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christianchicolópez)
+
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:christian.chico@hotmail.com)
 
 ## Feedback
 
